@@ -1,6 +1,6 @@
 ## Welcome to the Cronica IT&C project!
 
-**Chronicle IT&C** is a non-governmental, non-profit project initiated by
+**Cronica IT&C** is a non-governmental, non-profit project initiated by
 the Group of Romanian Unix Users (GURU).
 
 ### Aims
