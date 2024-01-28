@@ -5,8 +5,8 @@ the Group of Romanian Unix Users (GURU).
 
 ### Aims
 
-The project aims at a **reconstitution and long-term preservation
-of the IT&C history in Romania**, 
+The project aims at a possible **reconstitution and long-term 
+preservation of the IT&C history in Romania**, 
 presented in an international context.
 
 ### Content
