@@ -57,14 +57,6 @@ archive in separate projects.
 The main web site content is in Romanian. The repositories `imagini` and `arhiva` 
 also have Romanian names, since they are logically part of the main web.
 
-### Workflow
-
-The recommended workflow is to add the new content first into the
-preview site (by pushing to the `preview` branch), check it, 
-possibly further improve it, and, when
-the author is happy with the result, publish it on the main site
-(by merging into the `master` branch).
-
 ### Contact
 
 For discussion in English, please use the GitHub 
