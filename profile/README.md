@@ -5,7 +5,7 @@ the Group of Romanian Unix Users (GURU).
 
 ### Aims
 
-The project's goal is to **reconstruct and preserve the Romanian IT&C history**
+The ct's goal is to **reconstruct and preserve the Romanian IT&C history**
 in a long-term manner, in relation to the international context.
 
 ### Web site
@@ -37,7 +37,7 @@ binary files are stored.
 
 To minimise build times and to avoid space constraints, the content 
 is stored in multiple Git repositories, with the images and the
-archive in separate projects.
+archive in separate repositories.
 
 - [`cronica-it.github.io`](https://github.com/cronica-it/cronica-it.github.io) -
   the main location where the web site content is stored
