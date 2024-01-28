@@ -20,4 +20,4 @@ by references.
 The archive includes a **Memories** (_Amintiri_) section, with
 personal posts of those involved in various events, and the 
 **Archive** (_Arhiva_) section, with various PDF documents and other 
-binary documents.
+binary files.
