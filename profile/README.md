@@ -28,17 +28,17 @@ To minimise build times and to avoid space constraints, the content
 is stored in multiple Git repositories, with the images and the
 archive in separate projects.
 
-- `[cronica-it.github.io](https://github.com/cronica-it/cronica-it.github.io)` -
+- [`cronica-it.github.io`](https://github.com/cronica-it/cronica-it.github.io) -
   the main location where the web site content is stored
-- `[preview](https://github.com/cronica-it/preview)` -
+- [`preview`](https://github.com/cronica-it/preview) -
   the Git repository used as a placeholder to publish the preview web
-- `[imagini](https://github.com/cronica-it/imagini)` -
+- [`imagini`](https://github.com/cronica-it/imagini) -
   the Git repository where the web site images are stored
-- `[arhiva](https://github.com/cronica-it/arhiva)` -
+- [`arhiva`](https://github.com/cronica-it/arhiva) -
   the Git repository where the PDF and binary files are stored
-- `[docusaurus-chronology](https://github.com/cronica-it/docusaurus-chronology) -
+- [`docusaurus-chronology`](https://github.com/cronica-it/docusaurus-chronology) -
   a fork of the Docusaurus project, with enhancements for blogs with historical content
-- `[.github`](https://github.com/cronica-it/.github] -
+- [`.github`](https://github.com/cronica-it/.github] -
   A special GitHub repository, ith the top README page.
 
 The main web site content is in Romanian. The repositories `imagini` and `arhiva` 
