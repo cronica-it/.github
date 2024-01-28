@@ -11,13 +11,13 @@ presented in an international context.
 
 ### Content
 
-The timeline itself consists of dated **Events** (Evenimente),
+The content is structured around a timeline and an archive.
+
+The timeline consists of dated **Events** (Evenimente),
 described through more or less detailed articles and followed 
 by references.
 
-Additionally, in the **Memories** (Amintiri) section, articles with
-personal information of those involved in various events are published.
-
-Various PDF documents and other binary documents are in the **Archive** 
-(Arhiva) section.
-
+The archive includes a **Memories** (Amintiri) section, with
+personal posts of those involved in various events, and the 
+**Archive** (Arhiva) section, with various PDF documents and other 
+binary documents.
