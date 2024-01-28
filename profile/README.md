@@ -38,7 +38,7 @@ archive in separate projects.
   the Git repository where the PDF and binary files are stored
 - [`docusaurus-chronology`](https://github.com/cronica-it/docusaurus-chronology) -
   a fork of the Docusaurus project, with enhancements for blogs with historical content
-- [`.github`](https://github.com/cronica-it/.github] -
+- [`.github`](https://github.com/cronica-it/.github) -
   A special GitHub repository, ith the top README page.
 
 The main web site content is in Romanian. The repositories `imagini` and `arhiva` 
