@@ -11,7 +11,7 @@ presented in an international context.
 
 ### Content
 
-The content is structured around a timeline and an archive.
+The content is structured around a **timeline** and an **archive**.
 
 The timeline consists of dated **Events** (_Evenimente_),
 described through more or less detailed articles and followed 
