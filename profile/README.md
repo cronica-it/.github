@@ -6,7 +6,7 @@ the Group of Romanian Unix Users (GURU).
 ### Aims
 
 The project aims at **long-term reconstitution and preservation
-of the history of the IT&C industry in Romania**, 
+of the IT&C history in Romania**, 
 presented in an international context.
 
 ### Content
@@ -17,3 +17,7 @@ by references.
 
 Additionally, in the **Memories** (Amintiri) section, articles with
 personal information of those involved in various events are published.
+
+Various PDF documents and other binary documents are in the **Archive** 
+(Arhiva) section.
+
