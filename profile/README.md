@@ -5,7 +5,7 @@ the Group of Romanian Unix Users (GURU).
 
 ### Aims
 
-The ct's goal is to **reconstruct and preserve the Romanian IT&C history**
+The project's goal is to **reconstruct and preserve the Romanian IT&C history**
 in a long-term manner, in relation to the international context.
 
 ### Web site
