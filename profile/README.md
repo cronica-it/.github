@@ -41,8 +41,12 @@ archive in separate projects.
 - [`.github`](https://github.com/cronica-it/.github) -
   A special GitHub repository, with the top README page.
 
+### Romanian language
+
 The main web site content is in Romanian. The repositories `imagini` and `arhiva` 
 also have Romanian names, since they are logically part of the main web.
+
+### Workflow
 
 The recommended workflow is to add new content first into the
 preview site, check it, possibly further improve it, and, when
