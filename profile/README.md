@@ -19,7 +19,7 @@ own domain is to avoid depending on someone paying for the domain
 yearly fees.
 
 Plus that GitHub has better chance to outlive us and most other
-custom domaina.
+custom domains.
 
 ### Content
 
