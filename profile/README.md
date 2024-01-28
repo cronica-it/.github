@@ -9,6 +9,18 @@ The project aims at a possible **reconstitution and long-term
 preservation of the IT&C history in Romania**, 
 presented in an international context.
 
+### Web site
+
+The project website is published at
+[https://cronica-it.github.io/](https://cronica-it.github.io/).
+
+The main reason for using a `github.io` sub-domain over defining its 
+own domain is to avoid depending on someone paying for the domain
+yearly fees.
+
+Plus that GitHub has better chance to outlive us and most other
+custom domaina.
+
 ### Content
 
 The content is structured around a **timeline** and an **archive**.
