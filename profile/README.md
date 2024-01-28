@@ -39,7 +39,7 @@ archive in separate projects.
 - [`docusaurus-chronology`](https://github.com/cronica-it/docusaurus-chronology) -
   a fork of the Docusaurus project, with enhancements for blogs with historical content
 - [`.github`](https://github.com/cronica-it/.github) -
-  A special GitHub repository, ith the top README page.
+  A special GitHub repository, with the top README page.
 
 The main web site content is in Romanian. The repositories `imagini` and `arhiva` 
 also have Romanian names, since they are logically part of the main web.
