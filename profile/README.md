@@ -47,3 +47,11 @@ also have Romanian names, since they are logically part of the main web.
 The recommended workflow is to add new content first into the
 preview site, check it, possibly further improve it, and, when
 the author is happy with the result, publish it on the main site.
+
+### Contact
+
+For discussion in English, please use the project [Discussions]() pages.
+
+For announcements and general discussions in Romanian, please use the Google Groups [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
+
+To contact the project maintainers, please use the <cronica.it.ro@gmail.com> email address.
