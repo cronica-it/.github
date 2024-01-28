@@ -5,20 +5,19 @@ the Group of Romanian Unix Users (GURU).
 
 ### Aims
 
-The project aims at a possible **reconstitution and long-term 
-preservation of the IT&C history in Romania**, 
-presented in an international context.
+The project's goal is to **reconstruct and preserve the Romanian IT&C history**
+in a long-term manner, in relation to the international context.
 
 ### Web site
 
 The project website is published at
 [https://cronica-it.github.io/](https://cronica-it.github.io/).
 
-The main reason for using a `github.io` sub-domain over defining its 
-own domain is to avoid depending on someone paying for the domain
-yearly fees.
+The main benefit of using a `github.io` sub-domain instead of creating its 
+own domain is that it eliminates the risk of being taken off line
+in case someone forgets to cover the annual cost of the domain.
 
-Plus that GitHub has better chance to outlive us and most other
+In addition, GitHub has a better chance to outlive us and most other
 custom domains.
 
 ### Content
@@ -60,14 +59,19 @@ also have Romanian names, since they are logically part of the main web.
 
 ### Workflow
 
-The recommended workflow is to add new content first into the
-preview site, check it, possibly further improve it, and, when
-the author is happy with the result, publish it on the main site.
+The recommended workflow is to add the new content first into the
+preview site (by pushing to the `preview` branch), check it, 
+possibly further improve it, and, when
+the author is happy with the result, publish it on the main site
+(by merging into the `master` branch).
 
 ### Contact
 
-For discussion in English, please use the GitHub [Discussions](https://github.com/orgs/cronica-it/discussions) pages.
+For discussion in English, please use the GitHub 
+[Discussions](https://github.com/orgs/cronica-it/discussions) pages.
 
-For announcements and general discussions in Romanian, please use the Google Group [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
+For announcements and general discussions in Romanian, please use the Google Group 
+[cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
 
-To contact the project maintainers, please use the <cronica.it.ro@gmail.com> email address.
+To contact the project maintainers, please use the <cronica.it.ro@gmail.com> 
+email address.
