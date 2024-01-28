@@ -56,6 +56,6 @@ the author is happy with the result, publish it on the main site.
 
 For discussion in English, please use the GitHub [Discussions](https://github.com/orgs/cronica-it/discussions) pages.
 
-For announcements and general discussions in Romanian, please use the Google Groups [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
+For announcements and general discussions in Romanian, please use the Google Group [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
 
 To contact the project maintainers, please use the <cronica.it.ro@gmail.com> email address.
