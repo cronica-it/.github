@@ -50,7 +50,7 @@ the author is happy with the result, publish it on the main site.
 
 ### Contact
 
-For discussion in English, please use the project [Discussions]() pages.
+For discussion in English, please use the GitHub [Discussions]() pages.
 
 For announcements and general discussions in Romanian, please use the Google Groups [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
 
