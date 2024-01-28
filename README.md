@@ -1,5 +1,5 @@
-# Welcome to the Cronica IT&C project!
+# .github
 
-The **Cronica IT&C** project is an attempt to reconstruct and preserve the IT&C history in Romania.
+This is a GitHub special repository.
 
-
+The text shown in the top page is in `profile/README.md`.
