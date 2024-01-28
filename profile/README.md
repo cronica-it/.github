@@ -29,10 +29,10 @@ The timeline consists of dated **Events** (_Evenimente_),
 described through more or less detailed articles and followed 
 by references.
 
-The archive includes a **Memories** (_Amintiri_) section, with
-personal posts of those involved in various events, and the 
-**Archive** (_Arhiva_) section, with various PDF documents and other 
-binary files.
+The archive includes a **Memories** (_Amintiri_) section, where people
+who participated in various events share their personal stories and
+the **Archive** (_Arhiva_) section, where various PDF files and other 
+binary files are stored.
 
 ### Internals
 
