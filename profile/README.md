@@ -73,4 +73,4 @@ in Romanian, please use the Google Group
 #### eMail
 
 To contact the project maintainers, please use the <cronica.it.ro@gmail.com> 
-email address.
+eMail address.
