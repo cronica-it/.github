@@ -59,12 +59,18 @@ also have Romanian names, since they are logically part of the main web.
 
 ### Contact
 
+#### GitHub Discussions
+
 For discussion in English about GitHub related issues, please use the GitHub 
 [Discussions](https://github.com/orgs/cronica-it/discussions) pages.
+
+#### Google Group
 
 For announcements and general discussions about the web site content, 
 in Romanian, please use the Google Group 
 [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro).
+
+#### eMail
 
 To contact the project maintainers, please use the <cronica.it.ro@gmail.com> 
 email address.
