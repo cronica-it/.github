@@ -61,7 +61,7 @@ also have Romanian names, since they are logically part of the main web.
 
 #### GitHub Discussions
 
-For discussion in English about GitHub related issues, please use the GitHub 
+For discussion about GitHub related issues, in English, please use the GitHub 
 [Discussions](https://github.com/orgs/cronica-it/discussions) pages.
 
 #### Google Group
